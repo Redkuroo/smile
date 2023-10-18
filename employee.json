@@ -15,14 +15,7 @@
      "position":"Cashier", 
      "location":"Davao" 
    }, 
-  
-   "employee3":  { 
-     "id":3, 
-     "company":"McDo", 
-     "name":"Su'en Çelik", 
-     "position":"Assistant Manager", 
-     "location":"Mati" 
-   }, 
+   
     "user4": {
         "id": 4,
         "company": "Jollibee",
