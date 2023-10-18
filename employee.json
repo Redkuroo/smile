@@ -1,0 +1,47 @@
+{
+    
+   "employee1": { 
+     "id":1, 
+     "company":"Mang Inasal", 
+     "name":"Pàulu Van Rossem", 
+     "position":"Manager", 
+     "location":"Samal" 
+   }, 
+  
+   "employee2":  { 
+     "id":2, 
+     "company":"McDo", 
+     "name":"Chiaki Van Hout", 
+     "position":"Cashier", 
+     "location":"Davao" 
+   }, 
+  
+   "employee3":  { 
+     "id":3, 
+     "company":"McDo", 
+     "name":"Su'en Çelik", 
+     "position":"Assistant Manager", 
+     "location":"Mati" 
+   }, 
+    "user4": {
+        "id": 4,
+        "company": "Jollibee",
+        "nameofemployee": "4",
+        "position": "Janitor",
+        "location": "Tagum"
+    },
+    "user5": {
+        "id": 5,
+        "company": "Mang Inasal",
+        "nameofemployee": "5",
+        "position": "It",
+        "location": "Digus"
+    },
+    "user6": {
+        "id": 6,
+        "company": "Jobee",
+        "nameofemployee": "6",
+        "position": "CEO",
+        "location": "Davao"
+    }
+}
